@@ -1,0 +1,17 @@
+.fiebre {
+    background-color: red;
+}
+.no-fiebre{
+    background-color: greenyellow;
+}
+
+.logo{
+    background-image: url("/img/logo sena.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.tam{
+    width: 100px;
+    height: 100px;
+}
